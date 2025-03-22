@@ -1,10 +1,11 @@
 # 🧑🏽‍💻 Leonardo Izaias  
 
-**`Estudante de ADS | Focado em Java, C e Desenvolvimento Web`**  
+**`Estudante de ADS | Focado em Desenvolvimento de Programas e Web`**  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.  
 🚀 Explorando tanto o **Front-end** (pela experiência visual) quanto o **Back-end** (para criar a lógica por trás).  
 🔍 Buscando oportunidades na área de desenvolvimento enquanto compartilho meus estudos e projetos aqui no GitHub.  
+🗺️ Suzano - SP.
 
 📫 Conecte-se comigo:
 
