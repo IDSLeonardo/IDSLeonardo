@@ -1,11 +1,10 @@
 # 🧑🏽‍💻 Leonardo Izaias  
 
-**`Estudante de ADS | Focado em Desenvolvimento de Programas e Web`**  
+**`Estudante de ADS | Focado em Java, C e Desenvolvimento Web`**  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC - Mogi das Cruzes.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.  
 🚀 Explorando tanto o **Front-end** (pela experiência visual) quanto o **Back-end** (para criar a lógica por trás).  
 🔍 Buscando oportunidades na área de desenvolvimento enquanto compartilho meus estudos e projetos aqui no GitHub.  
-🗺️ Suzano - SP.
 
 📫 Conecte-se comigo:
 
@@ -33,10 +32,18 @@
 ### 📊 Estatísticas
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; width: 100%;" 
     src="https://github-readme-stats.vercel.app/api?username=IDSLeonardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+</p>
 
+<p>
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    style="padding-right: 10px; width: 100%;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDSLeonardo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+  />
 </p>
