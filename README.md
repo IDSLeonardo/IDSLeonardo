@@ -3,7 +3,7 @@
 **`Estudante de ADS | Focado em Desenvolvimento de Programas e Web`**  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.  
-🚀 Explorando tanto o **Front-end** (pela experiência visual) quanto o **Back-end** (para criar a lógica por trás).  
+🚀 Explorando tanto o **Front-end** quanto o **Back-end**.  
 🔍 Buscando oportunidades na área de desenvolvimento enquanto compartilho meus estudos e projetos aqui no GitHub.  
 🗺️ Suzano - SP.
 
